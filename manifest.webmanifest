@@ -1,0 +1,30 @@
+{
+ "name": "Tok Salone",
+ "short_name": "Tok Salone",
+ "description": "Kushe! Chat and share. Start small. Reach the world.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#1EB53A",
+ "theme_color": "#1EB53A",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
